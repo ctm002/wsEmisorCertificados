@@ -1,0 +1,10 @@
+$ cat .gitignore
+*.suo
+*.sln
+Emisor_Certificado/bin/
+Emisor_Certificado/My Project/
+Emisor_Certificado/obj/
+Emisor_Certificado/Emisor_Certificado.*
+Emisor_Certificado/*.config
+
+*~

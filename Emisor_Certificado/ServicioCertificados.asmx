@@ -1,0 +1,1 @@
+<%@ WebService Language="VB" CodeBehind="ServicioCertificados.asmx.vb" Class="Emisor_Certificado.ServicioCertificados" %>

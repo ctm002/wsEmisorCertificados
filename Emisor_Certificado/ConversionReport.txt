@@ -1,0 +1,8 @@
+﻿ERROR: no se puede analizar el archivo de proyecto Emisor_Certificado.vbproj.
+
+=========================COMENTARIOS=================
+El proyecto Emisor_Certificado.vbproj se ha convertido correctamente en June 23 2012, 23:18:33.
+ERROR: no se puede analizar el archivo de proyecto Emisor_Certificado.vbproj.
+
+=========================COMENTARIOS=================
+El proyecto Emisor_Certificado.vbproj se ha convertido correctamente en June 23 2012, 23:18:51.
